@@ -1,0 +1,10 @@
+digraph tree
+{
+node [shape = oval, fontname = consolas];
+edge [fontname = consolas];
+
+node0 [label = "node"];
+node1 [label = "fuck"];
+
+node0 -> node1 [label = "4.472"];
+}

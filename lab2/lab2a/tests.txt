@@ -1,0 +1,7 @@
++a*bc = a+b*c
++++abcd = a+b+c+d
+*+ab+cd = (a+b)*(c+d)
+-*+a35*2b = (a+3)*5-(2*b)
++*+abcd = (a+b)*c+d
+-+ab*/qw/-joe = (a+b)-(q/w)*(j-o)/e
+*-+ab/qw/-joe = ((a+b)-(q/w))*(j-o)/e
